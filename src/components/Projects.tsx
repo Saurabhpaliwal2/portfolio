@@ -16,6 +16,12 @@ const Projects: React.FC = () => {
             description: 'A full-stack e-commerce solution with real-time inventory management, payment integration, and admin dashboard.',
             tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
             gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'
+        },
+        {
+            title: 'Farmer Info',
+            description: 'A dedicated platform for farmers providing real-time weather updates, crop market prices, and expert agricultural advice.',
+            tags: ['React', 'TypeScript', 'Node.js', 'API'],
+            gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)'
         }
     ];
 
